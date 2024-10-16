@@ -11,6 +11,7 @@ function MusicSchoolContactUs() {
     event.preventDefault();
     console.log('Submitted:', { email, message });
   };
+
   return (
     <div className="min-h-screen bg-gray-100 dark:bg-gray-900 py-12 pt-36 relative">
       
